@@ -1,0 +1,30 @@
+﻿Appdomain Disposed
+Test Suite Dump
+#0: SpecFlowTestProj/Default - 
+#1: Default - 
+#3: SpecFlowTestProj - 
+#4: SpecFlowTestProj.SpecFlowFeatureFeature - 
+#5: AddTwoNumbers - TestAssembly:SpecFlowTestProj/TestClass:SpecFlowTestProj.SpecFlowFeatureFeature/TestMethod:AddTwoNumbers
+End: Test Suite Dump
+Scheduler: considering #5 for thread #0
+Scheduler: using #5 for thread #0
+Test #5 is scheduled for thread #0
+Thread #0: creating new test thread executor for SpecFlowTestProj, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Administrator\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.2.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Test #5/0 is started on thread #0
+T:Given I have entered 50 into the calculator
+T:-> done: SpecFlowFeatureSteps.GivenIHaveEnteredIntoTheCalculator(50) (0.0s)
+T:And I have entered 70 into the calculator
+T:-> done: SpecFlowFeatureSteps.GivenIHaveEnteredIntoTheCalculator(70) (0.0s)
+T:When I press add
+T:-> done: SpecFlowFeatureSteps.WhenIPressAdd() (0.0s)
+T:Then the result should be 120 on the screen
+T:-> done: SpecFlowFeatureSteps.ThenTheResultShouldBeOnTheScreen(120) (0.0s)
+Test #5 is finished on thread #0 as Succeeded within 0.1514622 seconds
+Appdomain Disposed
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

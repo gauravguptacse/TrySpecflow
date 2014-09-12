@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTestProj", "SpecFlowTestProj\SpecFlowTestProj.csproj", "{7A6A886B-D166-45C2-B738-239417B8906A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{11F44CAF-BD8C-446E-A516-531733727C97}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D7BB78DB-1BC7-474B-9F34-0E413264665F}"
+	ProjectSection(SolutionItems) = preProject
+		BuildVerifyBatch.bat = BuildVerifyBatch.bat
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationOnNumber", "OperationOnNumber\OperationOnNumber.csproj", "{A54A2AF0-DAC2-43E3-AA82-C507E04C52A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Deployement|Any CPU = Deployement|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A6A886B-D166-45C2-B738-239417B8906A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6A886B-D166-45C2-B738-239417B8906A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6A886B-D166-45C2-B738-239417B8906A}.Deployement|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6A886B-D166-45C2-B738-239417B8906A}.Deployement|Any CPU.Build.0 = Debug|Any CPU
+		{7A6A886B-D166-45C2-B738-239417B8906A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6A886B-D166-45C2-B738-239417B8906A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54A2AF0-DAC2-43E3-AA82-C507E04C52A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54A2AF0-DAC2-43E3-AA82-C507E04C52A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54A2AF0-DAC2-43E3-AA82-C507E04C52A1}.Deployement|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54A2AF0-DAC2-43E3-AA82-C507E04C52A1}.Deployement|Any CPU.Build.0 = Debug|Any CPU
+		{A54A2AF0-DAC2-43E3-AA82-C507E04C52A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54A2AF0-DAC2-43E3-AA82-C507E04C52A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\OperationOnNumber\obj\Debug\OperationOnNumber.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\OperationOnNumber\bin\Debug\OperationOnNumber.exe.config
+C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\OperationOnNumber\bin\Debug\OperationOnNumber.exe
+C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\OperationOnNumber\bin\Debug\OperationOnNumber.pdb
+C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\OperationOnNumber\obj\Debug\OperationOnNumber.exe
+C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\OperationOnNumber\obj\Debug\OperationOnNumber.pdb
+C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\TrySpecflow\OperationOnNumber\bin\Debug\OperationOnNumber.exe.config
+C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\TrySpecflow\OperationOnNumber\bin\Debug\OperationOnNumber.exe
+C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\TrySpecflow\OperationOnNumber\bin\Debug\OperationOnNumber.pdb
+C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\TrySpecflow\OperationOnNumber\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\TrySpecflow\OperationOnNumber\obj\Debug\OperationOnNumber.exe
+C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\TrySpecflow\OperationOnNumber\obj\Debug\OperationOnNumber.pdb
