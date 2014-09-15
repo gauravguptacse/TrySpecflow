@@ -1,8 +1,8 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using OperationOnNumber;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using TechTalk.SpecFlow;
+using System.Collections.Generic;
+using OperationOnNumber;
+using NUnit.Framework;
 
 namespace SpecFlowTestProj
 {
