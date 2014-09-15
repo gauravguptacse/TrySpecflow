@@ -11,7 +11,7 @@ namespace MVCApplication.Controllers
     {
         public ActionResult Index()
         {
-            ViewData["Message"] = "Welcome to ASP.NET MVC!";
+            ViewData["Message"] = "Welcome to ASP.NET MVC with Specflow!";
 
             return View();
         }
