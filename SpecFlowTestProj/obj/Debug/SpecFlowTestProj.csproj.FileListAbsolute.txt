@@ -25,3 +25,17 @@ C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\TrySpecflow\SpecFlowTestP
 C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\TrySpecflow\SpecFlowTestProj\bin\Debug\TechTalk.SpecRun.pdb
 C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\TrySpecflow\SpecFlowTestProj\obj\Debug\SpecFlowTestProj.dll
 C:\Users\Administrator\Desktop\Learn\StashWithTeamCity\TrySpecflow\SpecFlowTestProj\obj\Debug\SpecFlowTestProj.pdb
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\bin\Debug\Default.srprofile
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\bin\Debug\SpecFlowTestProj.dll.config
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\bin\Debug\SpecFlowTestProj.dll
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\bin\Debug\SpecFlowTestProj.pdb
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\bin\Debug\nunit.framework.dll
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\bin\Debug\OperationOnNumber.exe
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\bin\Debug\OperationOnNumber.pdb
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\bin\Debug\nunit.framework.xml
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\bin\Debug\TechTalk.SpecRun.pdb
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\obj\Debug\SpecFlowTestProj.csprojResolveAssemblyReference.cache
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\obj\Debug\SpecFlowTestProj.dll
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\obj\Debug\SpecFlowTestProj.pdb
