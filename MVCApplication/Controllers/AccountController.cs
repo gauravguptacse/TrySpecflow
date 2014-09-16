@@ -16,7 +16,7 @@ namespace MVCApplication.Controllers
     public class AccountController : Controller
     {
 
-        public IFormsAuthenticationServic FormsService { get; set; }
+        public IFormsAuthenticationService FormsService { get; set; }
         public IMembershipService MembershipService { get; set; }
 
         protected override void Initialize(RequestContext requestContext)
