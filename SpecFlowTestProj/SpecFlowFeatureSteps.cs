@@ -23,7 +23,8 @@ namespace SpecFlowTestProj
         {
             sum = Helper.AddNumbers(numbers);
         }
-
+        
+        // Comment 
         [Then(@"the result should be (.*) on the screen")]
         public void ThenTheResultShouldBeOnTheScreen(int p0)
         {
