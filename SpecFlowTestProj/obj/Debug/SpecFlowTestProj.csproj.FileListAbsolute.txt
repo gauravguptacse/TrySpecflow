@@ -39,3 +39,17 @@ C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\bin\Debug\TechTa
 C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\obj\Debug\SpecFlowTestProj.csprojResolveAssemblyReference.cache
 C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\obj\Debug\SpecFlowTestProj.dll
 C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\SpecFlowTestProj\obj\Debug\SpecFlowTestProj.pdb
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\bin\Debug\Default.srprofile
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\bin\Debug\SpecFlowTestProj.dll.config
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\bin\Debug\SpecFlowTestProj.dll
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\bin\Debug\SpecFlowTestProj.pdb
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\bin\Debug\OperationOnNumber.exe
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\bin\Debug\OperationOnNumber.pdb
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\bin\Debug\TechTalk.SpecRun.pdb
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\obj\Debug\SpecFlowTestProj.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\obj\Debug\SpecFlowTestProj.dll
+C:\Users\Administrator\Desktop\Learn\CIDemo\SpecFlowTestProj\obj\Debug\SpecFlowTestProj.pdb
