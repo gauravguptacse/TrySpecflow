@@ -28,7 +28,7 @@ namespace SpecFlowTestProj
         [Then(@"the result should be (.*) on the screen")]
         public void ThenTheResultShouldBeOnTheScreen(int p0)
         {
-            Asser.AreEqual(130, sum);
+            Assert.AreEqual(130, sum);
         }
     }
 }
