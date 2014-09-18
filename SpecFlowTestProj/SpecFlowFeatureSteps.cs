@@ -1,5 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using OperationOnNumber;
+﻿using Common.Helper;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using TechTalk.SpecFlow;

@@ -88,9 +88,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OperationOnNumber\OperationOnNumber.csproj">
-      <Project>{a54a2af0-dac2-43e3-aa82-c507e04c52a1}</Project>
-      <Name>OperationOnNumber</Name>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{c525a72e-6de9-4de8-bfee-20fc31173cf3}</Project>
+      <Name>Common</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
