@@ -16,5 +16,14 @@ namespace OperationOnNumber
 
             return sum;
         }
+
+        public static int MultiplyNumbers(List<int> numbers)
+        {
+            int product = 1;
+
+            numbers.ForEach(a => product *= a);
+
+            return product;
+        }
     }
 }

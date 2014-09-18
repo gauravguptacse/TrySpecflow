@@ -1,11 +1,16 @@
 ﻿Feature: SpecFlowFeature
-	In order to avoid silly mistakes
-	As a math idiot
-	I want to be told the sum of two numbers
+		 Perform operations on number
 
-@mytag
+@AddNumbers
 Scenario: Add two numbers
 	Given I have entered 80 into the calculator
 	And I have entered 70 into the calculator
 	When I press add
 	Then the result should be 150 on the screen
+
+@ProductOfNumbers
+Scenario: Multiply two numbers
+	Given enter 10 into the calculator
+	And enter 10 into the calculator
+	When press multiply
+	Then result should be 100
