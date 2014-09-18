@@ -1,8 +1,8 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using OperationOnNumber;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using TechTalk.SpecFlow;
+using System.Collections.Generic;
+using OperationOnNumber;
+using NUnit.Framework;
 
 namespace SpecFlowTestProj
 {
@@ -23,11 +23,11 @@ namespace SpecFlowTestProj
         {
             sum = Helper.AddNumbers(numbers);
         }
-         
+
         [Then(@"the result should be (.*) on the screen")]
         public void ThenTheResultShouldBeOnTheScreen(int p0)
         {
-            Assert.AreEqual(120, sum);
+            Assert.AreEqual(p0, sum);
         }
     }
 }
