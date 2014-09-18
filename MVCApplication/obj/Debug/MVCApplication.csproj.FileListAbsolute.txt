@@ -1,0 +1,4 @@
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\MVCApplication\bin\MVCApplication.dll
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\MVCApplication\bin\MVCApplication.pdb
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\MVCApplication\obj\Debug\MVCApplication.dll
+C:\Users\gauravgupta\Desktop\Learn\TrySpecflow\MVCApplication\obj\Debug\MVCApplication.pdb
