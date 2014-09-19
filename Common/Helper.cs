@@ -19,7 +19,7 @@ namespace Common.Helper
 
         public static int MultiplyNumbers(List<int> numbers)
         {
-            in product = 1;
+            int product = 1;
 
             numbers.ForEach(a => product *= a);
 
