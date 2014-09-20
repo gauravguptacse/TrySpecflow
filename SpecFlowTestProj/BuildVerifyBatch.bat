@@ -3,7 +3,7 @@
 "..\packages\SpecFlow.1.9.0\tools\specflow.exe" nunitexecutionreport SpecFlowTestProj.csproj /out:SpecflowTestResult.html
  
 IF NOT EXIST TestResult.xml GOTO FAIL
-IF NOT EXIST TestResult.html GOTO FAIL
+IF NOT EXIST SpecflowTestResult.html GOTO FAIL
 EXIT
  
 :FAIL
